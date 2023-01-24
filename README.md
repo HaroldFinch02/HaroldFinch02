@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HaroldFinch02
-- 👀 I’m interested in Python, Javascript, Machine Learning, Web Development
-- 🌱 I’m currently learning React, DRF, Go
+- 👀 I’m a software engineer
+- Working with Python (Flask, Django), Javascript (Angular)
+- 🌱 I’m currently learning Svelte
 
 <!---
 HaroldFinch02/HaroldFinch02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
